@@ -1,5 +1,3 @@
-
-# This repo contains Linda's portfolio and SPS projects!
 # Linda's portfolio and SPS projects!
 
 ![image](https://github.com/LindaNayeli104/SPS-MyPortfolio/assets/42613217/1812d4b3-c29a-4ffa-b3cb-1fc90fa9d52e)
